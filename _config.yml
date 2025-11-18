@@ -1,0 +1,14 @@
+title: "Julien Romero"
+description: "Associate Professor in Computer Science – AI & Machine Learning"
+baseurl: ""
+url: "https://aunsiels.github.io/personal-website"
+
+markdown: kramdown
+
+# Keep things simple
+theme: null
+
+# Build settings
+exclude:
+  - README.md
+
