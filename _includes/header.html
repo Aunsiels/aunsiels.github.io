@@ -1,12 +1,38 @@
 <header class="header">
+  {% comment %}
+    Detect if we are on a French page by looking at the URL.
+    Example URLs:
+      /en/...
+      /fr/...
+  {% endcomment %}
+  {% assign is_fr = false %}
+  {% if page.url == '/fr/' or page.url contains '/fr/' %}
+    {% assign is_fr = true %}
+  {% endif %}
+
   <div class="nav-left">
-    <a class="site-title" href="{{ '/en/' | relative_url }}">Julien Romero</a>
+    {% if is_fr %}
+      <a class="site-title" href="{{ '/fr/' | relative_url }}">Julien Romero</a>
+    {% else %}
+      <a class="site-title" href="{{ '/en/' | relative_url }}">Julien Romero</a>
+    {% endif %}
   </div>
+
   <nav class="nav-right">
-    <a href="{{ '/en/research' | relative_url }}">Research</a>
-    <a href="{{ '/en/teaching' | relative_url }}">Teaching</a>
-    <a href="{{ '/en/publications' | relative_url }}">Publications</a>
-    <a href="{{ '/en/blog' | relative_url }}">Blog</a>
+    {% if is_fr %}
+      <a href="{{ '/fr/' | relative_url }}">Accueil</a>
+      <a href="{{ '/fr/recherche' | relative_url }}">Recherche</a>
+      <a href="{{ '/fr/enseignement' | relative_url }}">Enseignement</a>
+      <a href="{{ '/fr/publications' | relative_url }}">Publications</a>
+      <a href="{{ '/fr/blog' | relative_url }}">Blog</a>
+    {% else %}
+      <a href="{{ '/en/' | relative_url }}">Home</a>
+      <a href="{{ '/en/research' | relative_url }}">Research</a>
+      <a href="{{ '/en/teaching' | relative_url }}">Teaching</a>
+      <a href="{{ '/en/publications' | relative_url }}">Publications</a>
+      <a href="{{ '/en/blog' | relative_url }}">Blog</a>
+    {% endif %}
+
     <span class="lang-switch">
       <a href="{{ '/en/' | relative_url }}">EN</a> ·
       <a href="{{ '/fr/' | relative_url }}">FR</a>
