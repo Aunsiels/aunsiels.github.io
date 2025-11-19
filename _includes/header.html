@@ -1,7 +1,16 @@
 <header class="header">
-  <nav>
-    <a href="{{ '/en/' | relative_url }}">EN</a> •
-    <a href="{{ '/fr/' | relative_url }}">FR</a>
+  <div class="nav-left">
+    <a class="site-title" href="{{ '/en/' | relative_url }}">Julien Romero</a>
+  </div>
+  <nav class="nav-right">
+    <a href="{{ '/en/research/' | relative_url }}">Research</a>
+    <a href="{{ '/en/teaching/' | relative_url }}">Teaching</a>
+    <a href="{{ '/en/publications/' | relative_url }}">Publications</a>
+    <a href="{{ '/en/blog/' | relative_url }}">Blog</a>
+    <span class="lang-switch">
+      <a href="{{ '/en/' | relative_url }}">EN</a> ·
+      <a href="{{ '/fr/' | relative_url }}">FR</a>
+    </span>
   </nav>
 </header>
 

@@ -13,10 +13,28 @@ body {
 
 /* Header */
 .header {
-  background: #f0e8e3; /* light terracotta tint */
+  background: #f0e8e3;
   padding: 10px 20px;
-  text-align: right;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
+
+.site-title {
+  font-weight: 600;
+  text-decoration: none;
+  color: #b44a28;
+}
+
+.nav-right a {
+  margin-left: 15px;
+  text-decoration: none;
+}
+.nav-right .lang-switch {
+  margin-left: 20px;
+  font-size: 0.9rem;
+}
+
 
 /* Footer */
 .footer {
