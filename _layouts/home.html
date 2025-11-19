@@ -2,13 +2,66 @@
 layout: default
 ---
 
+{% assign is_fr = false %}
+{% if page.url == '/fr/' or page.url contains '/fr/' %}
+  {% assign is_fr = true %}
+{% endif %}
+
 <section class="hero">
-  <img class="profile" src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Profile photo">
-  <h1>{{ page.title }}</h1>
-  <p class="tagline">{{ page.tagline }}</p>
+  <div class="hero-text">
+    <h1>{{ page.title }}</h1>
+    <p class="hero-tagline">{{ page.tagline }}</p>
+
+    {% if is_fr %}
+      <p class="hero-institution">
+        Maître de conférences à Télécom SudParis (Institut Polytechnique de Paris).
+      </p>
+    {% else %}
+      <p class="hero-institution">
+        Associate Professor at Télécom SudParis (Institut Polytechnique de Paris).
+      </p>
+    {% endif %}
+
+    {% if page.hero_intro %}
+      <p class="hero-intro">{{ page.hero_intro }}</p>
+    {% endif %}
+
+    <div class="hero-buttons">
+      {% if is_fr %}
+        <a class="btn" href="{{ '/assets/pdf/cv-en.pdf' | relative_url }}">Télécharger mon CV (PDF)</a>
+      {% else %}
+        <a class="btn" href="{{ '/assets/pdf/cv-en.pdf' | relative_url }}">Download CV (PDF)</a>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="hero-image">
+    <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Portrait of {{ site.title | default: 'Julien Romero' }}">
+  </div>
 </section>
 
-<section class="intro">
+<section class="links-pills">
+  <span class="links-label">
+    {% if is_fr %}
+      Profils &amp; liens :
+    {% else %}
+      Profiles &amp; links:
+    {% endif %}
+  </span>
+  <div class="links-list">
+    <a class="pill" href="https://github.com/Aunsiels" target="_blank" rel="noopener">GitHub</a>
+    <a class="pill" href="https://gitlab.com/aunsiels" target="_blank" rel="noopener">GitLab</a>
+    <a class="pill" href="https://twitter.com/Julien_romero" target="_blank" rel="noopener">Twitter</a>
+    <a class="pill" href="https://scholar.google.com/citations?user=nCgiv6YAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+    <a class="pill" href="https://dblp.org/pid/241/9678.html" target="_blank" rel="noopener">DBLP</a>
+    <a class="pill" href="https://orcid.org/0000-0002-7382-9077" target="_blank" rel="noopener">ORCID</a>
+    <a class="pill" href="https://www.semanticscholar.org/author/Julien-Romero/119889381" target="_blank" rel="noopener">Semantic Scholar</a>
+    <a class="pill" href="https://www.researchgate.net/profile/Julien_Romero" target="_blank" rel="noopener">ResearchGate</a>
+    <a class="pill" href="https://www.wikidata.org/wiki/Q99529363" target="_blank" rel="noopener">Wikidata</a>
+  </div>
+</section>
+
+<section class="home-main">
   {{ content }}
 </section>
 

@@ -8,6 +8,47 @@ They help me stay curious, grounded, and connected to things I simply love doing
 
 ---
 
+## Side Projects
+
+I love building things—small tools, websites, experiments, games.  
+Some projects are technical, others playful, but all come from the same place:  
+the joy of creating something from scratch.
+
+Here are some of the side projects I’ve worked on:
+
+### Software & Tools
+- **Pyformlang** — A Python library to manipulate formal languages.  
+  <https://github.com/Aunsiels/pyformlang>
+- **LocalHelix** — Your Personal DNA Analyzer.  
+  Get insights on your DNA without sending your data to external companies.  
+  <https://github.com/Aunsiels/LocalHelix>
+- **Wireless sensors network for performance monitoring**  
+  <https://github.com/Aunsiels/Mesh_Bee>
+
+### Web projects
+- **Tuftlab** — A website to compute the yarn required for tufting projects.  
+  <https://www.tuftlab.app/>
+- **Seluna** — A booking website for a Love Room experience.  
+  <https://www.seluna.fr/>
+
+### IoT & Hardware
+- **BumpBand** — A connected bracelet.  
+  <https://github.com/projetpact41/bumpband>
+- **Kudly** — A connected teddy bear.  
+  <https://github.com/Aunsiels/Kudly>
+
+### Video games (Ludum Dare game jam)
+- **IG/IRL** — Ludum Dare 37  
+  <https://aun.itch.io/igirl>
+- **The Art of the Rope** — Ludum Dare 36  
+  <https://aun.itch.io/the-art-of-the-rope>
+- **Pick & Build** — Ludum Dare 34  
+  <https://aun.itch.io/pickbuild>
+- **Monster Defense** — Ludum Dare 33  
+  <https://aun.itch.io/monster-defense>
+
+---
+
 ## Music
 
 Music has been part of my life for a long time.  
@@ -42,7 +83,6 @@ and experiment with textures, light, and shapes.
   <img src="{{ '/assets/img/gallery/drawing9.jpg' | relative_url }}" alt="">
   <img src="{{ '/assets/img/gallery/drawing10.jpg' | relative_url }}" alt="">
   <img src="{{ '/assets/img/gallery/drawing11.jpg' | relative_url }}" alt="">
-  <img src="{{ '/assets/img/gallery/drawing12.jpg' | relative_url }}" alt="">
   <img src="{{ '/assets/img/gallery/photo1.jpg' | relative_url }}" alt="">
   <img src="{{ '/assets/img/gallery/photo2.jpg' | relative_url }}" alt="">
   <img src="{{ '/assets/img/gallery/photo3.jpg' | relative_url }}" alt="">
@@ -85,46 +125,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 ---
 
-## Side Projects
-
-I love building things—small tools, websites, experiments, games.  
-Some projects are technical, others playful, but all come from the same place:  
-the joy of creating something from scratch.
-
-Here are some of the side projects I’ve worked on:
-
-### Software & Tools
-- **Pyformlang** — A Python library to manipulate formal languages.  
-  <https://github.com/Aunsiels/pyformlang>
-- **LocalHelix** — Your Personal DNA Analyzer.  
-  Get insights on your DNA without sending your data to external companies.  
-  <https://github.com/Aunsiels/LocalHelix>
-- **Wireless sensors network for performance monitoring**  
-  <https://github.com/Aunsiels/Mesh_Bee>
-
-### Web projects
-- **Tuftlab** — A website to compute the yarn required for tufting projects.  
-  <https://www.tuftlab.app/>
-- **Seluna** — A booking website for a Love Room experience.  
-  <https://www.seluna.fr/>
-
-### IoT & Hardware
-- **BumpBand** — A connected bracelet.  
-  <https://github.com/projetpact41/bumpband>
-- **Kudly** — A connected teddy bear.  
-  <https://github.com/Aunsiels/Kudly>
-
-### Video games (Ludum Dare game jam)
-- **IG/IRL** — Ludum Dare 37  
-  <https://aun.itch.io/igirl>
-- **The Art of the Rope** — Ludum Dare 36  
-  <https://aun.itch.io/the-art-of-the-rope>
-- **Pick & Build** — Ludum Dare 34  
-  <https://aun.itch.io/pickbuild>
-- **Monster Defense** — Ludum Dare 33  
-  <https://aun.itch.io/monster-defense>
-
----
 
 These activities remind me that creativity takes many forms,  
 and that research is only one piece of a larger picture.

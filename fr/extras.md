@@ -9,6 +9,47 @@ Cela m’aide à rester curieux, équilibré, et connecté à des choses que j�
 
 ---
 
+## Projets personnels
+
+J’aime construire des choses : outils, sites web, expériences, jeux vidéo…  
+Certains projets sont techniques, d’autres plus ludiques,  
+mais tous naissent du même plaisir : créer quelque chose de zéro.
+
+Voici quelques projets auxquels j’ai participé :
+
+### Logiciels & outils
+- **Pyformlang** — Une bibliothèque Python pour manipuler les langages formels.  
+  <https://github.com/Aunsiels/pyformlang>
+- **LocalHelix** — Analyseur ADN personnel.  
+  Permet d’obtenir des insights sans envoyer ses données à des entreprises externes.  
+  <https://github.com/Aunsiels/LocalHelix>
+- **Réseau de capteurs sans fil pour le monitoring de performances**  
+  <https://github.com/Aunsiels/Mesh_Bee>
+
+### Projets web
+- **Tuftlab** — Un site pour calculer la quantité de laine nécessaire pour un projet de tufting.  
+  <https://www.tuftlab.app/>
+- **Seluna** — Un site de réservation pour une Love Room.  
+  <https://www.seluna.fr/>
+
+### IoT & objets connectés
+- **BumpBand** — Un bracelet connecté.  
+  <https://github.com/projetpact41/bumpband>
+- **Kudly** — Un ours en peluche connecté.  
+  <https://github.com/Aunsiels/Kudly>
+
+### Jeux vidéo (Ludum Dare game jam)
+- **IG/IRL** — Ludum Dare 37  
+  <https://aun.itch.io/igirl>
+- **The Art of the Rope** — Ludum Dare 36  
+  <https://aun.itch.io/the-art-of-the-rope>
+- **Pick & Build** — Ludum Dare 34  
+  <https://aun.itch.io/pickbuild>
+- **Monster Defense** — Ludum Dare 33  
+  <https://aun.itch.io/monster-defense>
+
+---
+
 ## Musique
 
 La musique occupe une place importante dans ma vie.  
@@ -81,47 +122,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
 });
-
----
-
-## Projets personnels
-
-J’aime construire des choses : outils, sites web, expériences, jeux vidéo…  
-Certains projets sont techniques, d’autres plus ludiques,  
-mais tous naissent du même plaisir : créer quelque chose de zéro.
-
-Voici quelques projets auxquels j’ai participé :
-
-### Logiciels & outils
-- **Pyformlang** — Une bibliothèque Python pour manipuler les langages formels.  
-  <https://github.com/Aunsiels/pyformlang>
-- **LocalHelix** — Analyseur ADN personnel.  
-  Permet d’obtenir des insights sans envoyer ses données à des entreprises externes.  
-  <https://github.com/Aunsiels/LocalHelix>
-- **Réseau de capteurs sans fil pour le monitoring de performances**  
-  <https://github.com/Aunsiels/Mesh_Bee>
-
-### Projets web
-- **Tuftlab** — Un site pour calculer la quantité de laine nécessaire pour un projet de tufting.  
-  <https://www.tuftlab.app/>
-- **Seluna** — Un site de réservation pour une Love Room.  
-  <https://www.seluna.fr/>
-
-### IoT & objets connectés
-- **BumpBand** — Un bracelet connecté.  
-  <https://github.com/projetpact41/bumpband>
-- **Kudly** — Un ours en peluche connecté.  
-  <https://github.com/Aunsiels/Kudly>
-
-### Jeux vidéo (Ludum Dare game jam)
-- **IG/IRL** — Ludum Dare 37  
-  <https://aun.itch.io/igirl>
-- **The Art of the Rope** — Ludum Dare 36  
-  <https://aun.itch.io/the-art-of-the-rope>
-- **Pick & Build** — Ludum Dare 34  
-  <https://aun.itch.io/pickbuild>
-- **Monster Defense** — Ludum Dare 33  
-  <https://aun.itch.io/monster-defense>
 
 ---
 
