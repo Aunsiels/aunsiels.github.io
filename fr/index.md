@@ -9,19 +9,45 @@ hero_intro: "Je travaille sur des systèmes d’IA qui combinent graphes de conn
   <h2>À propos de mon travail</h2>
 
   <p>
-    Je suis maître de conférences à <strong>Télécom SudParis</strong>, au sein de
-    l’<strong>Institut Polytechnique de Paris</strong>.
-    Mes travaux se situent à l’intersection de l’<strong>intelligence artificielle</strong>,
-    des <strong>graphes de connaissances</strong>, de l’<strong>apprentissage sur graphes</strong>
-    et des <strong>grands modèles de langue (LLMs)</strong>.
-  </p>
+  Je suis Maître de conférences à
+  <strong><a href="https://www.telecom-sudparis.eu" target="_blank" rel="noopener noreferrer">Télécom SudParis</a></strong>,
+  au sein de
+  <strong><a href="https://www.ip-paris.fr" target="_blank" rel="noopener noreferrer">l’Institut Polytechnique de Paris</a></strong>.
+  Mes travaux se situent à l’intersection de l’
+  <strong>intelligence artificielle</strong>,
+  des <strong>graphes de connaissances</strong>,
+  de l’<strong>apprentissage sur graphes</strong>
+  et des <strong>modèles de langage (LLMs)</strong>.
+</p>
 
-  <p>
-    Je co-dirige le <strong>Master DataAI</strong> à IP Paris et je dirige le
-    <strong>Master MAIA en apprentissage</strong> à Télécom SudParis, où je conçois des
-    formations qui articulent bases théoriques solides et applications concrètes de l’IA.
-    Je m’intéresse particulièrement à l’innovation pédagogique et aux usages responsables de l’IA.
-  </p>
+<p>
+  Avant de rejoindre Télécom SudParis, j’ai réalisé ma thèse à
+  <strong><a href="https://www.telecom-paris.fr" target="_blank" rel="noopener noreferrer">Télécom Paris</a></strong>
+  au sein de l’équipe
+  <strong><a href="https://dig.telecom-paris.fr" target="_blank" rel="noopener noreferrer">DIG</a></strong>,
+  sous la direction de
+  <a href="https://suchanek.name" target="_blank" rel="noopener noreferrer">Fabian Suchanek</a>
+  et
+  <a href="https://preda.fr" target="_blank" rel="noopener noreferrer">Nicoleta Preda</a>.
+  J’ai ensuite effectué un post-doctorat au
+  <strong><a href="https://www.mpi-inf.mpg.de/departments/databases-and-information-systems" target="_blank" rel="noopener noreferrer">Max Planck Institute for Informatics</a></strong>
+  (groupe D5 : Databases and Information Systems), auprès de
+  <a href="https://people.mpi-inf.mpg.de/~weikum/" target="_blank" rel="noopener noreferrer">Gerhard Weikum</a>
+  et
+  <a href="https://scads.ai/about-us/ai-professorships/kaai/simon-razniewski/" target="_blank" rel="noopener noreferrer">Simon Razniewski</a>.
+</p>
+
+<p>
+  Je co-dirige le
+  <strong><a href="https://dataai.telecom-paris.fr/" target="_blank" rel="noopener noreferrer">Master DataAI</a></strong>
+  de l’Institut Polytechnique de Paris et je dirige le
+  <strong><a href="https://www-inf.telecom-sudparis.eu/COURS/maia/Supports/" target="_blank" rel="noopener noreferrer">Master MAIA en apprentissage</a></strong>
+  à Télécom SudParis, où je conçois des enseignements alliant fondements théoriques
+  solides et applications concrètes. Je suis particulièrement attentif à
+  l’innovation pédagogique et à la préparation des étudiants à une pratique
+  responsable de l’IA.
+</p>
+
 
   <p>
     Mes intérêts de recherche incluent le raisonnement fondé sur la connaissance,

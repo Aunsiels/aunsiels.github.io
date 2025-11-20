@@ -8,20 +8,42 @@ hero_intro: "I work on AI systems that combine knowledge graphs, LLMs, and graph
 <div class="home-section">
   <h2>About my work</h2>
 
-  <p>
-    I am an Associate Professor at <strong>Télécom SudParis</strong>, part of
-    <strong>Institut Polytechnique de Paris</strong>.
-    My work sits at the crossroads of <strong>artificial intelligence</strong>,
-    <strong>knowledge graphs</strong>, <strong>graph learning</strong>, and
-    <strong>large language models (LLMs)</strong>.
-  </p>
+<p>
+  I am an Associate Professor at
+  <strong><a href="https://www.telecom-sudparis.eu" target="_blank" rel="noopener noreferrer">Télécom SudParis</a></strong>,
+  part of the
+  <strong><a href="https://www.ip-paris.fr" target="_blank" rel="noopener noreferrer">Institut Polytechnique de Paris</a></strong>.
+  My work sits at the crossroads of <strong>artificial intelligence</strong>,
+  <strong>knowledge graphs</strong>, <strong>graph learning</strong>, and
+  <strong>large language models (LLMs)</strong>.
+</p>
 
-  <p>
-    I co-direct the <strong>DataAI Master’s program</strong> at IP Paris and direct the
-    <strong>MAIA apprenticeship Master</strong> at Télécom SudParis, where I help design
-    programs that bridge solid theoretical foundations with real-world applications.
-    I care about educational innovation and preparing students to work responsibly with AI.
-  </p>
+<p>
+  Before joining Télécom SudParis, I completed my PhD at
+  <strong><a href="https://www.telecom-paris.fr" target="_blank" rel="noopener noreferrer">Télécom Paris</a></strong>
+  in the
+  <strong><a href="https://dig.telecom-paris.fr" target="_blank" rel="noopener noreferrer">DIG team</a></strong>,
+  under the supervision of
+  <a href="https://suchanek.name" target="_blank" rel="noopener noreferrer">Fabian Suchanek</a>
+  and
+  <a href="https://preda.fr" target="_blank" rel="noopener noreferrer">Nicoleta Preda</a>.
+  I then joined the
+  <strong><a href="https://www.mpi-inf.mpg.de/departments/databases-and-information-systems" target="_blank" rel="noopener noreferrer">Max Planck Institute for Informatics</a></strong>
+  (D5: Databases and Information Systems group) for a postdoc with
+  <a href="https://people.mpi-inf.mpg.de/~weikum/" target="_blank" rel="noopener noreferrer">Gerhard Weikum</a>
+  and
+  <a href="https://scads.ai/about-us/ai-professorships/kaai/simon-razniewski/" target="_blank" rel="noopener noreferrer">Simon Razniewski</a>.
+</p>
+
+<p>
+  I co-direct the
+  <strong><a href="https://dataai.telecom-paris.fr/" target="_blank" rel="noopener noreferrer">DataAI Master’s program</a></strong>
+  at IP Paris and direct the
+  <strong><a href="https://www-inf.telecom-sudparis.eu/COURS/maia/Supports/" target="_blank" rel="noopener noreferrer">MAIA apprenticeship Master</a></strong>
+  at Télécom SudParis, where I help design programs that bridge strong theoretical
+  foundations with real-world applications. I care deeply about educational innovation
+  and preparing students to work responsibly with AI.
+</p>
 
   <p>
     My research interests include commonsense and knowledge-based reasoning, graph-based
