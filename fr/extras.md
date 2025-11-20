@@ -84,7 +84,6 @@ et d’expérimenter la lumière, les formes et les textures.
   <img src="{{ '/assets/img/gallery/drawing9.jpg' | relative_url }}" alt="">
   <img src="{{ '/assets/img/gallery/drawing10.jpg' | relative_url }}" alt="">
   <img src="{{ '/assets/img/gallery/drawing11.jpg' | relative_url }}" alt="">
-  <img src="{{ '/assets/img/gallery/drawing12.jpg' | relative_url }}" alt="">
   <img src="{{ '/assets/img/gallery/photo1.jpg' | relative_url }}" alt="">
   <img src="{{ '/assets/img/gallery/photo2.jpg' | relative_url }}" alt="">
   <img src="{{ '/assets/img/gallery/photo3.jpg' | relative_url }}" alt="">
